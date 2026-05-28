@@ -1,4 +1,4 @@
-\# MNIST Model Comparison
+# MNIST Model Comparison
 
 Proiectul acesta compara mai multe modele de Machine Learning pe datasetul MNIST,care contine imagini cu cifre scrise de mana.
 
